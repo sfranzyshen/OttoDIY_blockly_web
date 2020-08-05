@@ -1,16 +1,13 @@
-# Otto Blockly
+# Otto Blockly Web (Only) Version
+
+For The Electron (Original) Version see the main project https://github.com/OttoDIY/blockly
 
 This is a free and open source visual programming language based on Blockly from Google & MIT, Arduino codes are created by just combining the blocks, then they are compiled (check or verified) and quickly [upload to any Otto robot](https://wikifactory.com/+OttoDIY/projects) or similar Arduino(C++) or Micro:bit or Python robots.
 
 ## [Watch the video to see all the main features](https://youtu.be/chcWxh4Co_c)
 
-## Installer
-This software already works offline on Windows operating systems. You can [download the latest release from here](https://github.com/OttoDIY/blockly/releases), after install it is ready to use, no need to copy libraries or additional setup or even Arduino IDE, it is all integrated, ready to upload codes. Only if your computer do not recognize the USB device or Otto, you have to install the CH341 driver that is also [here in the "pilotes" folder.](https://github.com/OttoDIY/blockly/tree/master/pilotes/_CH341)
-
-MAC and Linux version are under development, as some requested and as much as we want them to be ready too, unfortunately, there are not many collaborators, neither committed volunteers even for very simple BETA Tests, so WE NEED YOU!, if you really need this software for your OS, help us please and don't ask when it would be available, since it only will be ready with your support..So for now you will need a Virtual Machine or use the online App with copy and paste.
-
 ## Online App
-Otto Blockly is also a web tool. You can [give it a try here.](https://ottodiy.github.io/blockly/) BUT the USB device cannot be recognized by the browser, therefore you won't be able to compile or upload the code.., although you can just simple copy and paste the generated code into your [local Arduino IDE](https://www.arduino.cc/en/Main/Software), therefore you can already use this tool from any operative system.
+Otto Blockly Web is a web tool. 
 
 ## How to Contribute
 Contributing to this software is warmly welcomed. There are 5 ways you can contribute to this project:
