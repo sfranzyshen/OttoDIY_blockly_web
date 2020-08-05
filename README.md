@@ -39,7 +39,7 @@ The more people helping to translate the better, it is important to translate wh
 
 1. Open any example.
 2. Connect your Otto robot.
-3. Select Arduino nano and USB port where Otto is connected.
+3. Select the hardware your Otto is based on.
 4. Check the code.
 5. Upload and yes is that easy!
 6. Drag , drop, mix, play and create your own codes.
